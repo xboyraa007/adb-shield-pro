@@ -1,1 +1,0 @@
-# adb-shield-pro
