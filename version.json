@@ -1,0 +1,11 @@
+{
+  "version": "1.0.2",
+  "release_date": "2026-02-20",
+  "download_url": "https://github.com/username/repo/releases/download/v1.0.2/app.exe",
+  "changelog": [
+    "Added automated in-app GitHub update system with progress tracking",
+    "Implemented seamless background binary replacement & auto-restart",
+    "Enhanced UI dark theme aesthetic and responsive layout components",
+    "Optimized network download stream efficiency and error handling"
+  ]
+}
