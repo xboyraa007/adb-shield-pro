@@ -3,6 +3,10 @@
   "release_date": "2026-02-20",
   "download_url": "https://github.com/xboyraa007/adb-shield-pro/releases/download/v1.0.3/ADB.Shield.Pro.Setup.1.0.3.exe",
     "changelog": [
-    "អាប់ដេតប្រព័ន្ធការពារ Signatures រហូតដល់ ១,៣៦៤ កម្មវិធី (បន្ថែម ៣០៣+ កម្មវិធីពេញនិយម, ធនាគារ, កម្មវិធីរដ្ឋ, AI, Remote Tools, App Cloners ฯល។)"
+    "អាប់ដេតប្រព័ន្ធការពារ Signatures រហូតដល់ ១,៣៨២ កម្មវិធី (បន្ថែម ៣០០+ កម្មវិធីពេញនិយម, ធនាគារ, កម្មវិធីរដ្ឋ, AI, Remote Tools, App Cloners ฯល។)",
+    "Fix មុខងារ 'លុបទីជ្រើស (Uninstall Selected)' ៖ លុបគ្រប់ User Apps ដែលបានគ្រីសជ្រើសរើស (Force Uninstall User-Selected Apps) ដូចជា Pinterest, Telegram, Facebook ឬ កម្មវិធីធនាគារ ដោយមិនរំលង (Skip) ទៀតឡើយ",
+    "រក្សាការការពារ System Apps ដាច់ខាតមិនឱ្យលុបឡើយ (Except System Apps) ដើម្បីការពារកុំឱ្យខូចប្រព័ន្ធប្រតិបត្តិការ Android OS",
+    "បន្ថែមប្រព័ន្ធអាប់ដេត In-App Auto-Update ដោយផ្ទាល់ពី GitHub (Automated in-app GitHub updater with real-time progress bar)",
+    "បង្កើតឯកសារ update_config.json សម្រាប់កំណត់រចនាសម្ព័ន្ធ Auto-Check និង GitHub Raw Version URL"
   ]
 }
