@@ -1,9 +1,10 @@
 {
-  "version": "1.0.3",
-  "release_date": "2026-08-27",
-  "download_url": "https://github.com/xboyraa007/adb-shield-pro/releases/download/v1.0.3/ADB.Shield.Pro.Setup.1.0.3.exe",
+  "version": "1.0.5",
+  "release_date": "2026-09-26",
+  "download_url": "https://github.com/xboyraa007/adb-shield-pro/releases/download/v1.0.4/ADB.Shield.Pro.Setup.1.0.4.exe",
   "changelog": [
-    "អាប់ដេតប្រព័ន្ធការពារ Signatures រហូតដល់ ១,៣៨២ កម្មវិធី (បន្ថែម ៣៨២+ កម្មវិធីពេញនិយម, ធនាគារ, កម្មវិធីរដ្ឋ, AI, Remote Tools, App Cloners, Authenticators ฯល។)",
-    "បន្ថែមមុខងារមើលទំហំផ្ទុក INTERNAL STORAGE (GB + Progress Bar) និង BATTERY LEVEL (%) លើ Hardware Monitor Card ជំនួសព័ត៌មានចាស់"
+    "បន្ថែមមុខងារ Custom Whitelist Manager (១-Click បន្ថែម/ដករំលងការលុប App ផ្ទាល់ខ្លួនបានភ្លាមៗពីតារាង App)",
+    "អាប់ដេតប្រព័ន្ធការពាររំលងការលុបស្វ័យប្រវត្តិ (Auto-Skip Protection Rules) លើ Banking, Social, Delivery, System & Whitelisted Apps",
+    "អាប់ដេតប្រព័ន្ធការពារ Signatures ដល់ ១,៣៨២+ កម្មវិធី ព្រមទាំងបង្កើនល្បឿនស្កែន និងទាញយក Real PNG App Icons"
   ]
 }
